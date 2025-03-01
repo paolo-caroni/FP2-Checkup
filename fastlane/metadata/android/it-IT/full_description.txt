@@ -1,0 +1,14 @@
+Era inclusa nel sistema operativo Android per Fairphone 2.
+
+Dato che è open source, la comunità WeAreFairphone lo ha reso disponibile anche agli utenti con altri dispositivi Android 5+.
+
+Ti consente di testare vari componenti del tuo telefono:
+
+*Schermo
+*Altoparlanti
+*Microfoni
+*Connettività mobile
+*Wi-Fi
+*Vibrazione
+
+Può essere utile quando devi diagnosticare un problema con il tuo dispositivo.
