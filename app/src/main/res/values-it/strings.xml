@@ -26,7 +26,7 @@
     <string name="lcd_test_summary">Lo schermo LCD visualizza il contenuto del tuo Fairphone.</string>
     <string name="lcd_test_description">Lo schermo LCD visualizza il contenuto del tuo Fairphone..</string>
     <!-- Arguments: <action button label> -->
-    <string name="lcd_test_instructions">Premi \'%1$s\' e batti sullo schermo per scorrere i vari colori. Controlla attentamente eventuali difetti dello schermo, ad esempio punti vuoti, ecc.</string>
+    <string name="lcd_test_instructions">Premi \'%1$s\' e tocca sullo schermo per scorrere i vari colori. Controlla attentamente eventuali difetti dello schermo, ad esempio punti vuoti, ecc.</string>
 
     <!-- (Generic) Microphone loopback -->
     <string name="mic_loopback_test_permissions_rationale">Per avviare il test è necessario consentire l\'accesso al microfono.</string>
